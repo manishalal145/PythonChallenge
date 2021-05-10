@@ -4,7 +4,7 @@
 
 ![Revenue](Images/revenue-per-lead.png)
 
-* In this challenge, we created a Python script for analyzing the financial records of the company. The data analysed is budget_data.csv.
+* In this challenge, I created a Python script for analyzing the financial records of the company. The data analysed is budget_data.csv.
 
 * Created a Python script that analyzed the records to calculate each of the following:
 
@@ -35,7 +35,7 @@
 
 ![Vote Counting](Images/Vote_counting.png)
 
-* In this challenge, we are tasked with helping a small, rural town modernize its vote counting process.
+* In this challenge, I'm tasked with helping a small, rural town modernize its vote counting process.
 
 * The data analysed is election_data.csv(PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. We created a Python script that analyzes the votes and calculates each of the following:
 
@@ -65,4 +65,4 @@
   -------------------------
   ```
 
-* In addition, our final script print the analysis to the terminal and export a text file with the results.
+* In addition, the final script print the analysis to the terminal and export a text file with the results.
